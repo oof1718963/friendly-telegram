@@ -1,0 +1,51 @@
+body
+{
+    text-align: center;
+    
+}
+body {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+input {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+span {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+.heading h3
+{
+    display:inline;
+}
+.heading button
+{
+    float:right;
+    border: 1px solid white;
+}
+#start
+{
+    font-size: 22px;
+}
+#status
+{
+    font-size: 22px;
+}
